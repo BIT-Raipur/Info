@@ -1,4 +1,4 @@
 # Main 
 
 
-[Others]('https://bit-raipur.github.io/Info/other')
+[Others](https://bit-raipur.github.io/Info/other)
